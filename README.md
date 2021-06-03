@@ -2,8 +2,6 @@
 
 This repository contains the code I developed for my Bachelor 's Degree in Electronic Information thesis.
 
-Please refer to https://wdkhuans.github.io/ for my thesis.
-
 **Research on Wearable Human Activity Recognition  Based on Information Interaction Between Joint  Points**
 
 **Abstract**: Aiming at the feature fusion of  multi-sensor data, this paper proposes a wearable human activity recognition model (Porn)  based on information interaction between joints. 
